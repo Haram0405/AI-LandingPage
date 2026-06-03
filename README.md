@@ -1,4 +1,4 @@
-# Woprol – Clothing Store Landing Page
+# Shopamp – Clothing Store Landing Page
 
 A fully responsive, production-grade clothing store landing page built with pure **HTML5** and **CSS3** — no frameworks, no dependencies (except Google Fonts & Font Awesome CDN).
 
@@ -155,7 +155,7 @@ In the `Our Location` section, replace the Google Maps embed `src` URL with your
 
 ## 👨‍💻 Built For
 
-> This project was created as an **AI-Assisted learning task** for a trainee at **The TechnerLab Academy** using Claude AI.
+> This project was created as an **AI-Assisted learning task** for a trainee at **The TechnerLab Academy**.
 
 ---
 
