@@ -1,4 +1,4 @@
-# Shopamp – Clothing Store Landing Page
+# Shopamp! – Clothing Store Landing Page
 
 A fully responsive, production-grade clothing store landing page built with pure **HTML5** and **CSS3** — no frameworks, no dependencies (except Google Fonts & Font Awesome CDN).
 
@@ -139,19 +139,6 @@ Find the `Our Products` section in `index.html` and edit each `.product-card`:
 ### Change Map Location
 In the `Our Location` section, replace the Google Maps embed `src` URL with your own embed link from [Google Maps](https://maps.google.com).
 
----
-
-## 📋 Browser Support
-
-| Browser | Support |
-|---------|---------|
-| Chrome 90+ | ✅ Full |
-| Firefox 88+ | ✅ Full |
-| Safari 14+ | ✅ Full |
-| Edge 90+ | ✅ Full |
-| IE 11 | ❌ Not supported |
-
----
 
 ## 👨‍💻 Built For
 
@@ -159,6 +146,3 @@ In the `Our Location` section, replace the Google Maps embed `src` URL with your
 
 ---
 
-## 📄 License
-
-Free to use for educational and personal projects.
