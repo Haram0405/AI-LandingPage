@@ -8,8 +8,8 @@ A fully responsive, production-grade clothing store landing page built with pure
 
 ```
 clothing-store/
-├── index.html      → Main HTML file (all sections & JS)
-├── style.css       → Complete stylesheet (1038 lines)
+├── index.html      → Main HTML file
+├── style.css       → Complete stylesheet
 └── README.md       → This file
 ```
 
