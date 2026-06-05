@@ -142,7 +142,7 @@ In the `Our Location` section, replace the Google Maps embed `src` URL with your
 
 ### Live View Of Landing Page
 
-https://www.loom.com/share/05be68b26cad4a5fa0a11d75668fa2ad
+https://www.loom.com/share/a950acd500544116aa31c635bd4f45b4
 
 
 ## 👨‍💻 Built For
