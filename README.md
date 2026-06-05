@@ -140,6 +140,11 @@ Find the `Our Products` section in `index.html` and edit each `.product-card`:
 In the `Our Location` section, replace the Google Maps embed `src` URL with your own embed link from [Google Maps](https://maps.google.com).
 
 
+### Live View Of Landing Page
+
+https://www.loom.com/share/05be68b26cad4a5fa0a11d75668fa2ad
+
+
 ## 👨‍💻 Built For
 
 > This project was created as an **AI-Assisted learning task** for a trainee at **The TechnerLab Academy**.
